@@ -4,9 +4,9 @@ This notebook about predicting whether the patient has heart disease or not acco
 We have Covered:
 
 
-Problem Defination
-Data
-Evaluation
-Features
-Modelling
-Experimentation
+1. Problem Defination
+2. Data
+3. Evaluation
+4.Features
+5. Modelling
+6. Experimentation
